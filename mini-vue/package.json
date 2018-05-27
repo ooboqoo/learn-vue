@@ -1,0 +1,13 @@
+{
+  "name": "mini-vue",
+  "version": "0.0.1",
+  "description": "Mini Vue.js help to understand Vue.js in depth.",
+  "main": "dist/vue.runtime.common.js",
+  "module": "dist/vue.runtime.esm.js",
+  "scripts": {
+    "dev": "rollup -w"
+  },
+  "devDependencies": {
+    "rollup": "^0.54.1"
+  }
+}
